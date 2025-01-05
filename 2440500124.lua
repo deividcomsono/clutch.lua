@@ -11,7 +11,7 @@ local UserInputService = cloneref(game:GetService("UserInputService"))
 
 local Midnight, Flags = loadstring(game:HttpGet("https://raw.githubusercontent.com/deividcomsono/Midnight/main/Source.lua"))()
 
-local Console = loadstring(game:HttpGet("https://raw.githubusercontent.com/mstudio45/MSDOORS/main/Utils/Console/Utility.lua"))() -- Made by Upio
+local Console = loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/Scripts/refs/heads/main/utils/console/main.lua"))() -- Made by Upio
 local message = Console.custom_console_progressbar({
     msg = "[clutch.lua]: Loading...",
     img = "",
